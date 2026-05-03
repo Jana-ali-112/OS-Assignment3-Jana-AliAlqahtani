@@ -46,7 +46,6 @@ Testing approach: Ran the code multiple times to check if counter outputs became
 Time spent: 1.5 hours
 ---
 
-[5/3/2026 11:37 PM] Jana: إليك الإجابات جاهزة، دقيقة، ومختصرة لتنسخيها مباشرة في ملف التقرير الخاص بك:
 ## Part 1: Development Log (1 mark)
 ### Entry 1 - [April 28, 2026, 4:00 PM]
 What I implemented: Initial project setup, changed student ID to 445052112, and analyzed the code to identify critical sections.
